@@ -2,5 +2,4 @@
 int main()
 using namespace std;
 123
-456
-456
+123
